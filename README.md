@@ -115,47 +115,51 @@ while (!solved) {
 
 ---
 
-## 🚀 Recent Projects
+## 🚀 Showcase Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🐧 [LinuxDoc](https://github.com/HojatJoshani/linuxdoc)
-The largest Persian Linux documentation platform.
-- **97 tutorials** across Gentoo, Parrot OS & Kali Linux
-- Learning paths with online exams & verifiable certificates
-- User accounts, bookmarks, reading progress tracking
-- `Next.js` `Prisma` `MDX` `NextAuth` `Supabase`
+### 🏆 [GoldHub](https://github.com/HojatJoshani/goldhub)
+**SaaS Platform for Gold & Jewelry Stores**
+- 12 modules: Dashboard, POS, Inventory, CRM, Orders, Accounting, Reports, AI Assistant, Marketplace & more
+- Live gold prices (auto-updated every 30 min from Iranian sources)
+- AI-powered: NL queries, OCR invoice scanning, product image recognition
+- PWA with offline support, RTL Persian UI, multi-tenant
+- `Next.js 16` `TypeScript` `Prisma` `Tailwind` `shadcn/ui` `z-ai-web-dev-sdk`
 
 </td>
 <td width="50%">
 
-### 💰 [Behesab](https://github.com/HojatJoshani/behesab-frontend)
-Modern accounting SaaS for the MENA region.
-- Full-stack financial management platform
-- Built for Middle Eastern business needs
-- `Next.js` `TypeScript` `Tailwind`
+### 🐧 [LinuxDoc](https://github.com/HojatJoshani/linuxdoc)
+**The Largest Persian Linux Documentation Platform**
+- 97 tutorials across Gentoo, Parrot OS & Kali Linux
+- Learning paths with online exams & verifiable certificates
+- User accounts, bookmarks, reading progress tracking
+- `Next.js` `Prisma` `MDX` `NextAuth` `Supabase`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📱 [SnapGram](https://github.com/HojatJoshani/snapgram)
-Social media app with photo sharing.
-- Image-centric social platform
-- Real-time feed & interactions
-- `React` `TypeScript` `Appwrite`
+### 🏥 [OrthoHealth](https://github.com/HojatJoshani/orthohealth)
+**Orthopedic Health Management Platform**
+- Patient management & appointment scheduling
+- Medical records, treatment plans & progress tracking
+- Doctor-patient communication portal
+- `Next.js` `TypeScript` `Prisma` `Tailwind`
 
 </td>
 <td width="50%">
 
-### 💬 [Thread App](https://github.com/HojatJoshani/thread_app)
-Twitter-like threading platform.
-- Conversational threading system
-- Rich text & media support
-- `Next.js` `TypeScript`
+### 📸 [ReplyInstagram](https://github.com/HojatJoshani/replyinstagram)
+**Instagram Reply Automation Tool**
+- Automated DM & comment reply system
+- AI-powered response generation
+- Multi-account management dashboard
+- `Next.js` `TypeScript` `Instagram API` `AI`
 
 </td>
 </tr>
